@@ -1,5 +1,5 @@
 # UserDataRestApiWithSwagger
-# Sprinrg boot rest api with swagger
+Spring boot rest api with swagger
 # How to run ?
 - Clone the project
 - Setup database
